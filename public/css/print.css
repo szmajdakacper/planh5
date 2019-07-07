@@ -1,0 +1,9 @@
+form,
+footer {
+  display: none;
+}
+
+.toPrint {
+  font-size: 34pt;
+  page-break-after: always;
+}

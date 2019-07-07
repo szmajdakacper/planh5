@@ -1,0 +1,21 @@
+.content {
+  min-height: 500px;
+}
+
+.table tr:hover {
+  background: lime !important;
+  color: blue;
+}
+
+table#plan {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table#plan th {
+  border: 1px solid black;
+  padding: 5px;
+}
+table#plan td {
+  border: 1px solid black;
+  padding: 5px;
+}
